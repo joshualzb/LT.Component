@@ -1,0 +1,6 @@
+D:\Develop\dll\Component.EntityMMSQL.dll
+D:\Develop\dll\Component.EntityMMSQL.pdb
+D:\Develop\dll\Component.EntityMMSQL.XML
+D:\Develop\LTS\Component.EntityMMSQL\obj\Release\Component.EntityMMSQL.csprojResolveAssemblyReference.cache
+D:\Develop\LTS\Component.EntityMMSQL\obj\Release\Component.EntityMMSQL.dll
+D:\Develop\LTS\Component.EntityMMSQL\obj\Release\Component.EntityMMSQL.pdb

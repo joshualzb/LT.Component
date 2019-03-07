@@ -1,0 +1,6 @@
+D:\Develop\dll\LT.Component.xml
+D:\Develop\dll\LT.Component.dll
+D:\Develop\dll\LT.Component.pdb
+D:\Develop\LTS\LT.Component\obj\Release\Component.csprojResolveAssemblyReference.cache
+D:\Develop\LTS\LT.Component\obj\Release\LT.Component.dll
+D:\Develop\LTS\LT.Component\obj\Release\LT.Component.pdb

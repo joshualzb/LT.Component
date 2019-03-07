@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Component", "LT.Component\Component.csproj", "{47876815-BF0E-49A3-8768-B87217512A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Component.EntityMMSQL", "Component.EntityMMSQL\Component.EntityMMSQL.csproj", "{6D9AA8CA-8623-430A-97B9-94EF17B54808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47876815-BF0E-49A3-8768-B87217512A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47876815-BF0E-49A3-8768-B87217512A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47876815-BF0E-49A3-8768-B87217512A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47876815-BF0E-49A3-8768-B87217512A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9AA8CA-8623-430A-97B9-94EF17B54808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9AA8CA-8623-430A-97B9-94EF17B54808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9AA8CA-8623-430A-97B9-94EF17B54808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9AA8CA-8623-430A-97B9-94EF17B54808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

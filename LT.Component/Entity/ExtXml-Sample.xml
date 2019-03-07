@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <query op="AND" key="item1" exc="-1" fmt="(string/number)-(arr)" sql="Item1='{0}'" />
+  <order key="orderby" case="sort-desc" sql="ParentId DESC'" />
+  <order key="orderby" case="sort-asc" sql="Parent ASC'" />
+  <pager key="pagesize" case="1" sql="10" />
+  <pager key="pagesize" case="2" sql="20" />
+  <pager key="pagesize" case="3" sql="30" />
+</doc>

@@ -1,0 +1,10 @@
+D:\Develop\LTS\OrderSyncServices\bin\Debug\OrderSyncServices.exe.config
+D:\Develop\LTS\OrderSyncServices\obj\Debug\OrderSyncServices.exe
+D:\Develop\LTS\OrderSyncServices\obj\Debug\OrderSyncServices.pdb
+D:\Develop\LTS\OrderSyncServices\bin\Debug\OrderSyncServices.exe
+D:\Develop\LTS\OrderSyncServices\bin\Debug\OrderSyncServices.pdb
+D:\Develop\LTS\OrderSyncServices\bin\Debug\SmartThreadPool.dll
+D:\Develop\LTS\OrderSyncServices\obj\Debug\OrderSyncServices.csprojResolveAssemblyReference.cache
+D:\Develop\LTS\OrderSyncServices\obj\Debug\OrderSyncServices.Main.resources
+D:\Develop\LTS\OrderSyncServices\obj\Debug\OrderSyncServices.Properties.Resources.resources
+D:\Develop\LTS\OrderSyncServices\obj\Debug\OrderSyncServices.csproj.GenerateResource.Cache
